@@ -1,6 +1,6 @@
 {
   "name": "lol-lockfile-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -17,7 +17,7 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "homepage": "https://github.com/Pupix/NAME",
+  "homepage": "https://github.com/Pupix/lol-lockfile-parser",
   "author": {
     "name": "Robert Manolea",
     "email": "manolea.robert@gmail.com"
@@ -33,10 +33,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pupix/NAME.git"
+    "url": "https://github.com/Pupix/lol-lockfile-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/Pupix/NAME/issues"
+    "url": "https://github.com/Pupix/lol-lockfile-parser/issues"
   },
   "keywords": [
     "file parser",
