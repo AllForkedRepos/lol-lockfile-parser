@@ -1,6 +1,6 @@
 {
   "name": "lol-lockfile-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -39,5 +39,9 @@
     "url": "https://github.com/Pupix/NAME/issues"
   },
   "keywords": [
+    "file parser",
+    "league of legends",
+    "lol",
+    "lockfile"
   ]
 }
